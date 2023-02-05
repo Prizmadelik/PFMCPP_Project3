@@ -337,17 +337,17 @@ Define an object that is made of 5 sub-objects.
     These 5 sub-objects will not be defined using Primitives, but instead will be their own UDTs 
     you'll define these 5 sub-objects in Part 1d.
 
-Thing 10)
+Thing 10) Laptop
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)Storage
+    2)Processor
+    3)Operating System
+    4)Display
+    5)Connectivity
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Stream Multimedia
+    2) Increase Productivity
+    3) Develop Software
  */
 
  /*
