@@ -196,53 +196,53 @@ Part 1b - Step 2: Assignment
         c) pick properties that can eventually be represented with 
         'int float double bool char std::string'.
 
-Thing 1)
+Thing 1) Phone
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)amount of storage
+    2)Color
+    3)hours per charge
+    4)Replaceable battery
+    5)cost
 3 things it can do:
-    1)
-    2)
-    3)
+    1) sends emails
+    2) takes pictures
+    3) displays videos 
 
-Thing 2)
+Thing 2) Recording Studio
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Number of Analog Consoles
+    2) Hours of Operation   
+    3) Number of Microphones
+    4) Cost per hour
+    5) Smoke Free
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Provides Professional quality recordings
+    2) provides better acoustics
+    3) Record an Orchestra
 
-Thing 3)
+Thing 3) Restaurant
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Number of Tables
+    2) Maximum Capacity
+    3) Serves Alcohol
+    4) Number of Chefs
+    5) Number of Servers
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Provide quality food
+    2) Prioritize Hygiene
+    3) Serves beverages
 
-Thing 4)
+Thing 4) Tufting Rug
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Size of Rug
+    2) number of colors
+    3) amount of yarn per yard
+    4) number of rugs completed
+    5) cost
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Produce custom designs
+    2) charge customer
+    3) provides unique experiences
 */
 
 /*
