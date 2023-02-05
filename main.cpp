@@ -198,35 +198,35 @@ Part 1b - Step 2: Assignment
 
 Thing 1) Phone
 5 properties:
-    1)amount of storage
-    2)Color
-    3)hours per charge
-    4)Replaceable battery
-    5)cost
+    1)amount of storage (int)
+    2)Color (std::string)
+    3)Operating System (std::string)
+    4)Replaceable battery (bool)
+    5)cost (double)
 3 things it can do:
     1) sends emails
     2) takes pictures
     3) displays videos 
 
-Thing 2) Recording Studio
+Thing 2) Camera
 5 properties:
-    1) Number of Analog Consoles
-    2) Hours of Operation   
-    3) Number of Microphones
-    4) Cost per hour
-    5) Smoke Free
+    1) Name of Brand (std::string)
+    2) Amount of Megapixels (double)
+    3) Monitor Size (double)
+    4) Bit Depth (int)
+    5) View Finder (bool)
 3 things it can do:
-    1) Provides Professional quality recordings
-    2) provides better acoustics
-    3) Record an Orchestra
+    1) Captures Photos
+    2) Records Videos
+    3) Stores Memory
 
 Thing 3) Restaurant
 5 properties:
-    1) Number of Tables
-    2) Maximum Capacity
-    3) Serves Alcohol
-    4) Number of Chefs
-    5) Number of Servers
+    1) Number of Tables (int)
+    2) Maximum Capacity (int)
+    3) Types of Alcohol (int)
+    4) Number of Chefs (int)
+    5) Number of Servers (int)
 3 things it can do:
     1) Provide quality food
     2) Prioritize Hygiene
@@ -234,15 +234,15 @@ Thing 3) Restaurant
 
 Thing 4) Tufting Rug
 5 properties:
-    1) Size of Rug
-    2) number of colors
-    3) amount of yarn per yard
-    4) number of rugs completed
-    5) cost
+    1) Size of Rug (double)
+    2) number of colors (int)
+    3) amount of yarn per yard (int)
+    4) number of rugs completed (int)
+    5) cost (double)
 3 things it can do:
     1) Produce custom designs
     2) charge customer
-    3) provides unique experiences
+    3) provides unique experience
 */
 
 /*
