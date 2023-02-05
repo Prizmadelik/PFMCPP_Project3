@@ -83,51 +83,51 @@ Main Object: Car Interior
         Name 4 nouns you'll find on the [Sub Object]
             1) paddle shifters
             2) 'cruise control' controls
-            3) 
-            4) 
+            3) volume controls
+            4) Instrument Cluster Controls
         Name 2 actions that the [Sub Object] can do:
             1) adjust cruise control settings.
-            2)
+            2) controls the direction of the vehicle   
         
     Sub Object: Instrument Cluster
         Name 4 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
-            4)
+            1) speedometer
+            2) mileage
+            3) fuel gauge indicator
+            4) system warnings indicator
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) displays the speed you are going
+            2) records the distance traveled
+            3) notifies you when you're low on fuel
     
     Sub Object: Environment Controls
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) heating controls
+            2) on/off button
+            3) display screen
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) displays the temperature in the vehicle
+            2) defrosts the windshield  
+            3) controls the direction of the air flow
 
     Sub Object: Infotainment System
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Touch Screen
+            2) Volume Controls
+            3) Apple Car Play
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) Enables Navigation
+            2) Displays Messages
+            3) Enables streaming of music
 
     Sub Object: Seat 
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Seat belt
+            2) recliner lever
+            3) head rest
         Name 2 actions that the [Sub Object] can do:
-            1)
-            2)
+            1) reclines
+            2) provides comfort
 */
 
 /*
