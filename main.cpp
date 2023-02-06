@@ -341,7 +341,7 @@ Thing 10) Laptop
 5 properties:
     1)Storage
     2)Processor
-    3)Operating System
+    3)Graphics Card
     4)Display
     5)Connectivity
 3 things it can do:
@@ -434,65 +434,65 @@ example:
     You will need to provide 5 properties and 3 member functions of that Engine object in plain English.
     Remember to pick properties that can be represented with 'int float double bool char std::string'.
 
-Thing 5)
+Thing 5) Storage
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Capacity in GB
+    2) Write Speed
+    3) Password Proctection
+    4) Weight
+    5) Interface
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Stores Data Permanently
+    2) Writes Data
+    3) Reads Data
 
-Thing 6)
+Thing 6) Processor
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Cores
+    2) Clock Speed
+    3) Brand
+    4) Data Bus Width
+    5) Cache Size
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Executes Instructions
+    2) Outputs Data
+    3) Sends Pulses
 
-Thing 7)
+Thing 7) Graphics Card
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) GPU
+    2) Cores
+    3) Memory Size
+    4) Power Consumption
+    5) Cost
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Provides HQ display
+    2) Executes Graphical Data
+    3) Generates Graphics
 
-Thing 8)
+Thing 8) Display
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Brightness
+    2) Color Quality
+    3) Refresh Rate
+    4) Size
+    5) Touch Screen
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Projects Colors
+    2) stores RGB information
+    3) Receives Information
 
-Thing 9)
+Thing 9) Connectivity
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Number of Ports
+    2) Wifi
+    3) Bluetooth
+    4) Data Transfer Speed
+    5) Card Reader
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Connects to the internet
+    2) Connects to external devices
+    3) Transfers data
  */
 
 /*
