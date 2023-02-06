@@ -436,11 +436,11 @@ example:
 
 Thing 5) Storage
 5 properties:
-    1) Capacity in GB
-    2) Write Speed
-    3) Password Proctection
-    4) Weight
-    5) Interface
+    1) Capacity in GB (int)
+    2) Write Speed (int)
+    3) Password Proctection (bool)
+    4) Weight (double)
+    5) Interface (std::string)
 3 things it can do:
     1) Stores Data Permanently
     2) Writes Data
@@ -448,11 +448,11 @@ Thing 5) Storage
 
 Thing 6) Processor
 5 properties:
-    1) Cores
-    2) Clock Speed
-    3) Brand
-    4) Data Bus Width
-    5) Cache Size
+    1) Cores (int)
+    2) Clock Speed (float)
+    3) Brand (std::string)
+    4) Data Bus Width (int)
+    5) Cache Size (int)
 3 things it can do:
     1) Executes Instructions
     2) Outputs Data
@@ -460,11 +460,11 @@ Thing 6) Processor
 
 Thing 7) Graphics Card
 5 properties:
-    1) GPU
-    2) Cores
-    3) Memory Size
-    4) Power Consumption
-    5) Cost
+    1) GPU (std::string)
+    2) Cores (int)
+    3) Memory Size (int)
+    4) Power Consumption (int)
+    5) Cost (double)
 3 things it can do:
     1) Provides HQ display
     2) Executes Graphical Data
@@ -472,11 +472,11 @@ Thing 7) Graphics Card
 
 Thing 8) Display
 5 properties:
-    1) Brightness
-    2) Color Quality
-    3) Refresh Rate
-    4) Size
-    5) Touch Screen
+    1) Brightness (int)
+    2) Color Quality (std::string)
+    3) Refresh Rate (int)
+    4) Size (double)
+    5) Touch Screen (bool)
 3 things it can do:
     1) Projects Colors
     2) stores RGB information
@@ -484,11 +484,11 @@ Thing 8) Display
 
 Thing 9) Connectivity
 5 properties:
-    1) Number of Ports
-    2) Wifi
-    3) Bluetooth
-    4) Data Transfer Speed
-    5) Card Reader
+    1) Number of Ports (int)
+    2) Wifi (std::string)
+    3) Bluetooth (bool)
+    4) Data Transfer Speed (int)
+    5) Card Reader (std::string)
 3 things it can do:
     1) Connects to the internet
     2) Connects to external devices
