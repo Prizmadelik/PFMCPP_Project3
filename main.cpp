@@ -83,51 +83,51 @@ Main Object: Car Interior
         Name 4 nouns you'll find on the [Sub Object]
             1) paddle shifters
             2) 'cruise control' controls
-            3) 
-            4) 
+            3) volume controls
+            4) Instrument Cluster Controls
         Name 2 actions that the [Sub Object] can do:
             1) adjust cruise control settings.
-            2)
+            2) controls the direction of the vehicle   
         
     Sub Object: Instrument Cluster
         Name 4 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
-            4)
+            1) speedometer
+            2) mileage
+            3) fuel gauge indicator
+            4) system warnings indicator
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) displays the speed you are going
+            2) records the distance traveled
+            3) notifies you when you're low on fuel
     
     Sub Object: Environment Controls
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) heating controls
+            2) on/off button
+            3) display screen
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) displays the temperature in the vehicle
+            2) defrosts the windshield  
+            3) controls the direction of the air flow
 
     Sub Object: Infotainment System
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Touch Screen
+            2) Volume Controls
+            3) Apple Car Play
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) Enables Navigation
+            2) Displays Messages
+            3) Enables streaming of music
 
     Sub Object: Seat 
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Seat belt
+            2) recliner lever
+            3) head rest
         Name 2 actions that the [Sub Object] can do:
-            1)
-            2)
+            1) reclines
+            2) provides comfort
 */
 
 /*
@@ -196,54 +196,7 @@ Part 1b - Step 2: Assignment
         c) pick properties that can eventually be represented with 
         'int float double bool char std::string'.
 
-Thing 1)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
 
-Thing 2)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
-
-Thing 3)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
-
-Thing 4)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
-*/
 
 /*
 =================
@@ -337,17 +290,7 @@ Define an object that is made of 5 sub-objects.
     These 5 sub-objects will not be defined using Primitives, but instead will be their own UDTs 
     you'll define these 5 sub-objects in Part 1d.
 
-Thing 10)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
+
  */
 
  /*
@@ -434,65 +377,7 @@ example:
     You will need to provide 5 properties and 3 member functions of that Engine object in plain English.
     Remember to pick properties that can be represented with 'int float double bool char std::string'.
 
-Thing 5)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
 
-Thing 6)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
-
-Thing 7)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
-
-Thing 8)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
-
-Thing 9)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
  */
 
 /*
@@ -544,7 +429,127 @@ MOVE THEM to the space below this block comment and put them in numerical order
     I only want to see the 10 UDTs written BELOW this block comment, in numerical order (1 - 10).
     simply CUT and PASTE them in the space provided below:
 */
+/*
+Thing 1) Phone
+5 properties:
+    1)amount of storage (int)
+    2)Color (std::string)
+    3)Operating System (std::string)
+    4)Replaceable battery (bool)
+    5)cost (double)
+3 things it can do:
+    1) sends emails
+    2) takes pictures
+    3) displays videos 
 
+Thing 2) Camera
+5 properties:
+    1) Name of Brand (std::string)
+    2) Amount of Megapixels (double)
+    3) Monitor Size (double)
+    4) Bit Depth (int)
+    5) View Finder (bool)
+3 things it can do:
+    1) Captures Photos
+    2) Records Videos
+    3) Stores Memory
+
+Thing 3) Restaurant
+5 properties:
+    1) Number of Tables (int)
+    2) Maximum Capacity (int)
+    3) Types of Alcohol (int)
+    4) Number of Chefs (int)
+    5) Number of Servers (int)
+3 things it can do:
+    1) Provide quality food
+    2) Prioritize Hygiene
+    3) Serves beverages
+
+Thing 4) Tufting Rug
+5 properties:
+    1) Size of Rug (double)
+    2) number of colors (int)
+    3) amount of yarn per yard (int)
+    4) number of rugs completed (int)
+    5) cost (double)
+3 things it can do:
+    1) Produce custom designs
+    2) charge customer
+    3) provides unique experience
+
+Thing 5) Storage
+5 properties:
+    1) Capacity in GB (int)
+    2) Write Speed (int)
+    3) Password Proctection (bool)
+    4) Weight (double)
+    5) Interface (std::string)
+3 things it can do:
+    1) Stores Data Permanently
+    2) Writes Data
+    3) Reads Data
+
+Thing 6) Processor
+5 properties:
+    1) Cores (int)
+    2) Clock Speed (float)
+    3) Brand (std::string)
+    4) Data Bus Width (int)
+    5) Cache Size (int)
+3 things it can do:
+    1) Executes Instructions
+    2) Outputs Data
+    3) Sends Pulses
+
+Thing 7) Graphics Card
+5 properties:
+    1) GPU (std::string)
+    2) Cores (int)
+    3) Memory Size (int)
+    4) Power Consumption (int)
+    5) Cost (double)
+3 things it can do:
+    1) Provides HQ display
+    2) Executes Graphical Data
+    3) Generates Graphics
+
+Thing 8) Display
+5 properties:
+    1) Brightness (int)
+    2) Color Quality (std::string)
+    3) Refresh Rate (int)
+    4) Size (double)
+    5) Touch Screen (bool)
+3 things it can do:
+    1) Projects Colors
+    2) stores RGB information
+    3) Receives Information
+
+Thing 9) Connectivity
+5 properties:
+    1) Number of Ports (int)
+    2) Wifi (std::string)
+    3) Bluetooth (bool)
+    4) Data Transfer Speed (int)
+    5) Card Reader (std::string)
+3 things it can do:
+    1) Connects to the internet
+    2) Connects to external devices
+    3) Transfers data
+
+Thing 10) Laptop
+5 properties:
+    1)Storage
+    2)Processor
+    3)Graphics Card
+    4)Display
+    5)Connectivity
+3 things it can do:
+    1) Stream Multimedia
+    2) Increase Productivity
+    3) Develop Software
+*/
 
 
 
